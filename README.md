@@ -2,7 +2,7 @@
 
 ​									<img alt="GitHub followers" src="https://img.shields.io/github/followers/Fr06t?logo=github&style=for-the-badge"> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Fr06t?color=red&logo=github&style=for-the-badge"> <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/fr06t?color=brown%20&label=Fr06t&logo=reddit&style=for-the-badge">
 
-I'm a freelance developer currently living in :pakistan:.
+I'm a learning developer currently living in :pakistan:.
 
 ### Stuff I Use
 

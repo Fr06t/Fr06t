@@ -1,16 +1,24 @@
-# Hi there 👋
+#  Hi there, I'm [Ghassan Shahzad](https://fr06t.github.io/) 👋
 
-​									<img alt="GitHub followers" src="https://img.shields.io/github/followers/Fr06t?logo=github&style=for-the-badge"> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Fr06t?color=red&logo=github&style=for-the-badge"> <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/fr06t?color=brown%20&label=Fr06t&logo=reddit&style=for-the-badge">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4500&center=true&width=440&lines=Full+Stack+Application+Dev;Student+in+Lahore%2C+Pakistan;Above+all%2C+always+learning)](https://git.io/typing-svg) 
 
-I'm a learning developer currently living in :pakistan:.
+<img alt="total stars" title="Total stars on GitHub" data-canonical-src="https://custom-icon-badges.herokuapp.com/github/stars/fr06t?color=55960c&amp;style=for-the-badge&amp;labelColor=488207&amp;logo=star" style="max-width: 100%;"><img alt="followers" title="Follow me on Github" data-canonical-src="https://custom-icon-badges.herokuapp.com/github/followers/fr06t?color=236ad3&amp;labelColor=1155ba&amp;style=for-the-badge&amp;logo=person-add&amp;label=Followers&amp;logoColor=white" style="max-width: 100%;">
 
-### Stuff I Use
+### Connect
 
-#### SOFTWARE
+<div style="text-align: center;">
+    <a href="https://fr06t.github.io/">
+    	<img height="40" width="40" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/c83fc14c8d0c15c6a1c82503b25d206e1cc33f9a/img/globe-light.svg" style="margin:0px 10px"/>
+    </a>
+    <a href="https://stackoverflow.com/users/11578707/fr06t">
+        <img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/stackoverflow.svg" style="text-align: center; margin:0px 10px"/>
+    </a>
+    <a href+"https://dev.to/fr06t">
+        <img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/devdotto.svg" style="align: center; margin:0px 10px"/>
+	</a>
+### Recent Activity
 
-<img alt="Arch" src="https://img.shields.io/badge/Arch-black?style=for-the-badge&logo=Archlinux&logoColor=white"><img alt="Firefox" src="https://img.shields.io/badge/Firefox-orange?style=for-the-badge&logo=firefox&logoColor=white"><img alt="Vim" src="https://img.shields.io/badge/Vim-gray?style=for-the-badge&logo=vim&logoColor=white">
 
-#### LANGUAGES
-
-<img alt="Python" src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white"><img alt="Cplusplus" src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white"><img alt="Javascript" src="https://img.shields.io/badge/Javascript-red?style=for-the-badge&logo=Javascript&logoColor=white">
-
+```
+<!--START_SECTION:activity-->
+```

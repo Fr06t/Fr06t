@@ -2,9 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4500&center=true&width=440&lines=Full+Stack+Application+Dev;Student+in+Lahore%2C+Pakistan;Above+all%2C+always+learning)](https://git.io/typing-svg) 
 
-​									<img alt="GitHub followers" src="https://img.shields.io/github/followers/Fr06t?logo=github&style=for-the-badge"> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Fr06t?color=red&logo=github&style=for-the-badge"> <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/fr06t?color=brown%20&label=Fr06t&logo=reddit&style=for-the-badge">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/Fr06t?logo=github&style=for-the-badge"> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Fr06t?color=red&logo=github&style=for-the-badge"> <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/fr06t?color=brown%20&label=Fr06t&logo=reddit&style=for-the-badge">
 
-<img alt="total stars" title="Total stars on GitHub" data-canonical-src="https://custom-icon-badges.herokuapp.com/github/stars/fr06t?color=55960c&amp;style=for-the-badge&amp;labelColor=488207&amp;logo=star" style="max-width: 100%;"><img alt="followers" title="Follow me on Github" data-canonical-src="https://custom-icon-badges.herokuapp.com/github/followers/fr06t?color=236ad3&amp;labelColor=1155ba&amp;style=for-the-badge&amp;logo=person-add&amp;label=Followers&amp;logoColor=white" style="max-width: 100%;">
 
 ### Connect
 
@@ -18,6 +17,8 @@
     <a href+"https://dev.to/fr06t">
         <img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/devdotto.svg" style="align: center; margin:0px 10px"/>
 	</a>
+</div>
+
 ### Recent Activity
 
 

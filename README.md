@@ -14,7 +14,7 @@
     <a href="https://stackoverflow.com/users/11578707/fr06t">
         <img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/stackoverflow.svg" style="text-align: center; margin:0px 10px"/>
     </a>
-    <a href+"https://dev.to/fr06t">
+    <a href="https://dev.to/fr06t">
         <img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/devdotto.svg" style="align: center; margin:0px 10px"/>
 	</a>
 </div>
